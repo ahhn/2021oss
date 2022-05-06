@@ -8,7 +8,7 @@
 - StoryMapJS 활용
 - Sutori 활용
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xwNHzpWM_hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/llvFEZKUWr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [강의 슬라이드 다운로드](https://github.com/ahhn/2021oss/raw/main/%40lab_Omeka_Introduction_WIDE_2021_light.pdf)  <br>
 
